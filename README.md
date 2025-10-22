@@ -4,6 +4,15 @@
 
 ---
 
+## 📖 Informações do Projeto
+
+**Autores:**  
+- 👨‍💻 Gustavo Cerqueira Murai  
+- 👨‍💻 Igor Cerqueira Murai  
+
+
+---
+
 ## 📸 Interface do Projeto
 
 A interface foi construída no **Windows Forms (Visual Studio)**, seguindo o modelo proposto na atividade:
